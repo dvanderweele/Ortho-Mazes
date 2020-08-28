@@ -12,3 +12,5 @@ Furthermore, if you make any cool mazes with this program, let me know!
 ## FAQs
 **Why did you use the .ppm file format? Isn't that ridiculous?**
 Yes, it is ridiculous and highly inefficient, offering zero compression. However, I simply wanted a program that outputted maze images with zero external libraries incorporated and frankly the idea of trying to generate a png file without a library seems silly to me.
+**What kind of mazes can you make with this?**
+2D orthographic mazes that are built as a collection of square cells arranged in a grid. The walls are not lines, but simply "solid" or "filled" cells, whilst traversible corridors are "empty" or "carved". You can configure whether or not the maze is a weave maze, which means that corridors can tunnel beneath other corridors, as well as a host of other things like colors, size, loops, bias, etc.
