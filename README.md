@@ -18,3 +18,6 @@ Yes, it is ridiculous and highly inefficient, offering zero compression. However
 **What kind of mazes can you make with this?**
 
 2D orthographic mazes that are built as a collection of square cells arranged in a grid. The walls are not lines, but simply "solid" or "filled" cells, whilst traversible corridors are "empty" or "carved". You can configure whether or not the maze is a weave maze, which means that corridors can tunnel beneath other corridors, as well as a host of other things like colors, size, loops, bias, etc.
+
+## YouTube Video Overview and Demo of Program
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/oqMYsWMjVzI/0.jpg)](https://www.youtube.com/watch?v=oqMYsWMjVzI)
